@@ -1,0 +1,54 @@
+
+body{
+	background-color: lightblue;
+	
+}
+
+h1{
+	font-family: Sans-serif;
+	font-size: 50px;
+}
+pre{
+	font-size: 15px;
+ 
+}
+
+.about{
+	font-size: 20px;
+	position: relative;
+	top: -450px;
+	right: -400px;
+}
+.par{
+	position: relative;
+	top: -450px;
+	right: -400px;
+	font-weight: normal;
+	font-family: Sans-serif;
+}
+.ed{
+	font-size: 20px;
+	position: relative;
+	top: -400px;
+	right: -400px;
+}
+.a{
+	position: relative;
+	top: -370px;
+	right: -370px;
+	font-weight: normal;
+	font-family: Sans-serif;
+}
+.ea{
+	font-size: 20px;
+	position: relative;
+	top: -320px;
+	right: -400px;
+}
+.ab{
+	position: relative;
+	top: -270px;
+	right: -375px;
+	font-weight: normal;
+	font-family: Sans-serif;
+}
